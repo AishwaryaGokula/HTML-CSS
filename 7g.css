@@ -1,0 +1,35 @@
+.tweet{
+
+background-color: #6666f2;
+color:white;
+font-size: 10px;
+font-weight: bold;
+border-radius:20px;
+padding-top:20px;
+padding-bottom: 20px;
+padding-right: 20px;
+padding-left: 20px;
+text-align: center;
+width:100px;
+
+
+}
+
+img{
+height:70px;
+width:70px;
+border-radius: 100px;
+object-fit: contain;
+vertical-align: middle;
+
+
+
+}
+.textbox{
+
+    width:200px;
+    height:30px;
+    vertical-align: middle;
+    font-size: 15px;
+    text-align:center;
+}
